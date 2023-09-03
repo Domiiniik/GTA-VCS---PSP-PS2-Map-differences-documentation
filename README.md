@@ -1,4 +1,4 @@
-![Screenshot_20230823_183838_Spotify](https://github.com/Domiiniik/GTA-VCS---PSP-PS2-Map-differences-documentation/assets/30195961/34041d0d-b6be-4567-b6c1-8adc6cd9f919)![Screenshot_20230901_185319_Telegram](https://github.com/Domiiniik/GTA-VCS---PSP-PS2-Map-differences-documentation/assets/30195961/fe876553-bc79-4e88-84d2-d17f7b10be37)![Screenshot_20230902_114929_PPSSPP](https://github.com/Domiiniik/GTA-VCS---PSP-PS2-Map-differences-documentation/assets/30195961/dc3565b7-6efd-4df0-9401-9a6941e6c0fe)# GTA-VCS---PSP-PS2-Map-differences-documentation
+GTA-VCS---PSP-PS2-Map-differences-documentation
 The differences between the map of PSP/ PS2 GTA VCS versions.
 
 (PS2 FIX) Grasspatch on the Shore next to Fort Baxter army base is now single shade of color.
